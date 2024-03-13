@@ -1,0 +1,19 @@
+@import "./botsrap.min.css";
+
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: "Montserrat", sans-serif;
+          scroll-behavior: smooth;
+}
+
+.nav{
+          height: 80px;
+}
+.nav ul{
+          gap: 21px;
+}
+footer{
+          background-color: #391F00;
+}
